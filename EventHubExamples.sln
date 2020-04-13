@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubCheckPoint", "EventHubCheckPoint\EventHubCheckPoint.csproj", "{7919BB18-B499-426E-BFE3-2FBAD5C6BFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7919BB18-B499-426E-BFE3-2FBAD5C6BFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7919BB18-B499-426E-BFE3-2FBAD5C6BFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7919BB18-B499-426E-BFE3-2FBAD5C6BFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7919BB18-B499-426E-BFE3-2FBAD5C6BFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC17C8A-BC58-4C8C-8C8F-25A5451594EA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nimccoll.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EventHubCheckPoint\\EventHubCheckPoint.csproj
+		SccProjectName1 = EventHubCheckPoint
+		SccLocalPath1 = EventHubCheckPoint
+	EndGlobalSection
+EndGlobal
